@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+reading-registry.json
+*-reading-manifest.json
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
