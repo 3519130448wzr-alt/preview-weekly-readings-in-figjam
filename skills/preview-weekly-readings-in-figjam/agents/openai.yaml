@@ -1,0 +1,8 @@
+interface:
+  display_name: "Weekly Reading FigJam"
+  short_description: "Build bilingual deep-reading FigJam workspaces"
+  brand_color: "#355CDE"
+  default_prompt: "Use $preview-weekly-readings-in-figjam to build or continue a bilingual FigJam companion for my assigned weekly readings."
+
+policy:
+  allow_implicit_invocation: true
